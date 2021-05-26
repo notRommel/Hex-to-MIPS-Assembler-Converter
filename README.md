@@ -10,3 +10,7 @@ There are a few things I wish to improve in the future, which can be seen under 
 
 Author: Samuel Rommal,
 Current Version: 1.0
+
+How to use:
+Currently, the HexAsmApp.class is not necessary to run the program. You can run this code by calling the static HexAsmConverter.getInstance() in your own main. 
+The current code runs a JFrame that's a WIP.
