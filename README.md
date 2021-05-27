@@ -13,4 +13,4 @@ Current Version: 1.0
 
 How to use:
 Currently, the HexAsmApp.class is not necessary to run the program. You can run this code by calling the static HexAsmConverter.getInstance() in your own main. 
-The current code runs a JFrame that's a WIP.
+The current code runs a JFrame, which is a WIP.
